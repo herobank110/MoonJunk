@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>B:\Unreal\MoonJunk\Content\WwiseAudio\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="393239870" Language="SFX" Hash="3112895159">
+			<ObjectPath>\SoundBanks\Default Work Unit\SFX</ObjectPath>
+			<ShortName>SFX</ShortName>
+			<Path>SFX.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2543463472" Name="Ai_alert" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_alert"/>
+				<Event Id="3269214274" Name="Ai_Ambience" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_Ambience"/>
+				<Event Id="2658179343" Name="Ai_steal" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_steal"/>
+				<Event Id="855317084" Name="Alarm" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Alarm">
+					<IncludedMemoryFiles>
+						<File Id="608331193" Language="SFX">
+							<ShortName>Alarm.wav</ShortName>
+							<Path>SFX\Alarm_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Ambience">
+					<IncludedMemoryFiles>
+						<File Id="659929358" Language="SFX">
+							<ShortName>Command_Module_Presence_ODY-0295-009.wav</ShortName>
+							<Path>SFX\Command_Module_Presence_ODY-0295-009_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2962571195" Name="Electrical" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Electrical">
+					<IncludedMemoryFiles>
+						<File Id="401123152" Language="SFX">
+							<ShortName>Tonal_Static_ODC-0011-159.wav</ShortName>
+							<Path>SFX\Tonal_Static_ODC-0011-159_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3478377678" Name="Emp_Grenade" ObjectPath="\Events\Default Work Unit\SFX\Player\Emp_Grenade">
+					<IncludedMemoryFiles>
+						<File Id="51709094" Language="SFX">
+							<ShortName>Grenade.wav</ShortName>
+							<Path>SFX\Grenade_10C4C929.wem</Path>
+						</File>
+						<File Id="895605535" Language="SFX">
+							<ShortName>Grenade 2.wav</ShortName>
+							<Path>SFX\Grenade 2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2478829299" Name="Fans" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Fans">
+					<IncludedMemoryFiles>
+						<File Id="758539988" Language="SFX">
+							<ShortName>Air_Conditioner_Metamorphosis_ODY-0307-013.wav</ShortName>
+							<Path>SFX\Air_Conditioner_Metamorphosis_ODY-0307-013_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3710578841" Name="Grapple_Gun" ObjectPath="\Events\Default Work Unit\SFX\Player\Grapple_Gun">
+					<IncludedMemoryFiles>
+						<File Id="66258413" Language="SFX">
+							<ShortName>grapple 2.wav</ShortName>
+							<Path>SFX\grapple 2_10C4C929.wem</Path>
+						</File>
+						<File Id="362797022" Language="SFX">
+							<ShortName>grapple 4.wav</ShortName>
+							<Path>SFX\grapple 4_10C4C929.wem</Path>
+						</File>
+						<File Id="820769319" Language="SFX">
+							<ShortName>grapple 1.wav</ShortName>
+							<Path>SFX\grapple 1_10C4C929.wem</Path>
+						</File>
+						<File Id="866077476" Language="SFX">
+							<ShortName>grapple 3.wav</ShortName>
+							<Path>SFX\grapple 3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3595476012" Name="grapple_release" ObjectPath="\Events\Default Work Unit\SFX\Player\grapple_release">
+					<IncludedMemoryFiles>
+						<File Id="104119763" Language="SFX">
+							<ShortName>Whip_Cracks_ODY-1520-006.wav</ShortName>
+							<Path>SFX\Whip_Cracks_ODY-1520-006_10C4C929.wem</Path>
+						</File>
+						<File Id="127247595" Language="SFX">
+							<ShortName>Whip_Swishes_ODY-1520-017.wav</ShortName>
+							<Path>SFX\Whip_Swishes_ODY-1520-017_10C4C929.wem</Path>
+						</File>
+						<File Id="205651387" Language="SFX">
+							<ShortName>Whip_Swishes_ODY-1520-017-01.wav</ShortName>
+							<Path>SFX\Whip_Swishes_ODY-1520-017-01_10C4C929.wem</Path>
+						</File>
+						<File Id="885316401" Language="SFX">
+							<ShortName>Whip_Cracks_ODY-1520-006-01.wav</ShortName>
+							<Path>SFX\Whip_Cracks_ODY-1520-006-01_10C4C929.wem</Path>
+						</File>
+						<File Id="888616285" Language="SFX">
+							<ShortName>Whip_Swishes_ODY-1520-017-02.wav</ShortName>
+							<Path>SFX\Whip_Swishes_ODY-1520-017-02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1457628129" Name="Hazard_drop_off" ObjectPath="\Events\Default Work Unit\SFX\Player\Hazard_drop_off">
+					<IncludedMemoryFiles>
+						<File Id="859732913" Language="SFX">
+							<ShortName>Hazard drop off.wav</ShortName>
+							<Path>SFX\Hazard drop off_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3833651337" Name="Jump" ObjectPath="\Events\Default Work Unit\SFX\Player\Jump">
+					<IncludedMemoryFiles>
+						<File Id="178485083" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01-04.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01-04_10C4C929.wem</Path>
+						</File>
+						<File Id="339299511" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01-06.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01-06_10C4C929.wem</Path>
+						</File>
+						<File Id="411291942" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01-02.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01-02_10C4C929.wem</Path>
+						</File>
+						<File Id="459743269" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01-08.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01-08_10C4C929.wem</Path>
+						</File>
+						<File Id="511486532" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01_10C4C929.wem</Path>
+						</File>
+						<File Id="851036618" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01-01.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01-01_10C4C929.wem</Path>
+						</File>
+						<File Id="968511070" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01-05.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01-05_10C4C929.wem</Path>
+						</File>
+						<File Id="992651825" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01-07.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01-07_10C4C929.wem</Path>
+						</File>
+						<File Id="1005793071" Language="SFX">
+							<ShortName>Fire_Whoosh_ODY-1320-032-01-03.wav</ShortName>
+							<Path>SFX\Fire_Whoosh_ODY-1320-032-01-03_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4011223956" Name="Object_Pick_up" ObjectPath="\Events\Default Work Unit\SFX\Player\Object_Pick_up">
+					<IncludedMemoryFiles>
+						<File Id="93138931" Language="SFX">
+							<ShortName>Camera_Bag_Zipper_ODY-1617-066-01.wav</ShortName>
+							<Path>SFX\Camera_Bag_Zipper_ODY-1617-066-01_10C4C929.wem</Path>
+						</File>
+						<File Id="203330032" Language="SFX">
+							<ShortName>Objects, Zipper, Clothing, Zipped Up Fast SND4046 2.wav</ShortName>
+							<Path>SFX\Objects, Zipper, Clothing, Zipped Up Fast SND4046 2_10C4C929.wem</Path>
+						</File>
+						<File Id="308693771" Language="SFX">
+							<ShortName>Zipper_Fast_and_Short_Pull_ODY-0486-009-01.wav</ShortName>
+							<Path>SFX\Zipper_Fast_and_Short_Pull_ODY-0486-009-01_10C4C929.wem</Path>
+						</File>
+						<File Id="756537999" Language="SFX">
+							<ShortName>Camera_Bag_Zipper_ODY-1617-066.wav</ShortName>
+							<Path>SFX\Camera_Bag_Zipper_ODY-1617-066_10C4C929.wem</Path>
+						</File>
+						<File Id="892456560" Language="SFX">
+							<ShortName>Camera_Bag_Zipper_ODY-1617-066-02.wav</ShortName>
+							<Path>SFX\Camera_Bag_Zipper_ODY-1617-066-02_10C4C929.wem</Path>
+						</File>
+						<File Id="974758273" Language="SFX">
+							<ShortName>Zipper_Fast_and_Short_Pull_ODY-0486-009.wav</ShortName>
+							<Path>SFX\Zipper_Fast_and_Short_Pull_ODY-0486-009_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="787110072" Name="Outside_the_door_ambience" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Outside_the_door_ambience">
+					<IncludedMemoryFiles>
+						<File Id="1073203391" Language="SFX">
+							<ShortName>Metal_Stress_ODY-0299-005.wav</ShortName>
+							<Path>SFX\Metal_Stress_ODY-0299-005_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4137946895" Name="Tree_Rustle" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Tree_Rustle">
+					<IncludedMemoryFiles>
+						<File Id="245714514" Language="SFX">
+							<ShortName>Tree Rustle.wav</ShortName>
+							<Path>SFX\Tree Rustle_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1551306167" Name="UI" ObjectPath="\Events\Default Work Unit\SFX\UI">
+					<IncludedMemoryFiles>
+						<File Id="130004504" Language="SFX">
+							<ShortName>Analog Lab 4 01-04-01.wav</ShortName>
+							<Path>SFX\Analog Lab 4 01-04-01_10C4C929.wem</Path>
+						</File>
+						<File Id="230553970" Language="SFX">
+							<ShortName>Analog Lab 4 01-04-04.wav</ShortName>
+							<Path>SFX\Analog Lab 4 01-04-04_10C4C929.wem</Path>
+						</File>
+						<File Id="319469034" Language="SFX">
+							<ShortName>Analog Lab 4 01-04-03.wav</ShortName>
+							<Path>SFX\Analog Lab 4 01-04-03_10C4C929.wem</Path>
+						</File>
+						<File Id="407007214" Language="SFX">
+							<ShortName>Analog Lab 4 01-04.wav</ShortName>
+							<Path>SFX\Analog Lab 4 01-04_10C4C929.wem</Path>
+						</File>
+						<File Id="596980962" Language="SFX">
+							<ShortName>Analog Lab 4 01-04-02.wav</ShortName>
+							<Path>SFX\Analog Lab 4 01-04-02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2654748154" Name="Water" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Water">
+					<IncludedMemoryFiles>
+						<File Id="56057708" Language="SFX">
+							<ShortName>Bubbles_Constant_ODS-0375-012.wav</ShortName>
+							<Path>SFX\Bubbles_Constant_ODS-0375-012_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1122839101">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX" Hash="1027345779">
+			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
+			<ShortName>Music</ShortName>
+			<Path>Music.bnk</Path>
+			<IncludedEvents>
+				<Event Id="417627684" Name="PlayMusic" ObjectPath="\Events\Default Work Unit\Music\PlayMusic">
+					<IncludedMemoryFiles>
+						<File Id="295591954" Language="SFX">
+							<ShortName>Victory Stinger.wav</ShortName>
+							<Path>SFX\Victory Stinger_D79FB2B7.wem</Path>
+						</File>
+						<File Id="490056593" Language="SFX">
+							<ShortName>Dome_Dash-01 (2).wav</ShortName>
+							<Path>SFX\Dome_Dash-01 (2)_D79FB2B7.wem</Path>
+						</File>
+						<File Id="758067848" Language="SFX">
+							<ShortName>Dome Dash Explore layer 1.wav</ShortName>
+							<Path>SFX\Dome Dash Explore layer 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="845694909" Language="SFX">
+							<ShortName>Dome Dash Explore layer 2.wav</ShortName>
+							<Path>SFX\Dome Dash Explore layer 2_D79FB2B7.wem</Path>
+						</File>
+						<File Id="873542883" Language="SFX">
+							<ShortName>Death Stinger.wav</ShortName>
+							<Path>SFX\Death Stinger_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{F6A864B5-9761-46E1-97DD-69D3CCBE7CC8}">
+							<Media>
+								<File Id="490056593"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{AE573F11-1144-4DAE-8B27-EC72C5966E5C}">
+							<Media>
+								<File Id="758067848"/>
+								<File Id="845694909"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{791B072E-4176-4B36-AC8B-D25956A22C78}">
+							<Media>
+								<File Id="873542883"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{CE7CFA67-0AB3-452E-BB86-37D642CB88B1}">
+							<Media>
+								<File Id="295591954"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{5D1350E0-6FA6-4F39-83A2-90DA890721F0}">
+							<Media>
+								<File Id="758067848"/>
+								<File Id="845694909"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+					<ActionSetState>
+						<ActionSetStateEntry Id="579523862" Name="Explore" ObjectPath="\States\Default Work Unit\Player_State\Explore"/>
+					</ActionSetState>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="3486324328" Name="Countdown_Timer" ObjectPath="\Game Parameters\Default Work Unit\Countdown_Timer"/>
+			</GameParameters>
+			<StateGroups>
+				<StateGroup Id="579523862" Name="Explore" ObjectPath="\States\Default Work Unit\Player_State\Explore">
+					<States/>
+				</StateGroup>
+				<StateGroup Id="4071417932" Name="Player_State" ObjectPath="\States\Default Work Unit\Player_State">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Player_State\None"/>
+						<State Id="579523862" Name="Explore" ObjectPath="\States\Default Work Unit\Player_State\Explore"/>
+						<State Id="1942692385" Name="Dash" ObjectPath="\States\Default Work Unit\Player_State\Dash"/>
+						<State Id="2716678721" Name="Victory" ObjectPath="\States\Default Work Unit\Player_State\Victory"/>
+						<State Id="221232704" Name="Loss" ObjectPath="\States\Default Work Unit\Player_State\Loss"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

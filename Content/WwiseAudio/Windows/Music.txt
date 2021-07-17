@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	417627684	PlayMusic			\Default Work Unit\Music\PlayMusic	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	4071417932	Player_State			\Default Work Unit\Player_State	
+
+State	ID	Name	State Group			Notes
+	221232704	Loss	Player_State			
+	579523862	Explore	Player_State			
+	748895195	None	Player_State			
+	1942692385	Dash	Player_State			
+	2716678721	Victory	Player_State			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3486324328	Countdown_Timer			\Default Work Unit\Countdown_Timer	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	295591954	Victory Stinger	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Victory Stinger_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Victory Stinger\Victory Stinger		1920064
+	490056593	Dome_Dash-01 (2)	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Dome_Dash-01 (2)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Dash\Dash\Dome_Dash-01 (2)		30228348
+	758067848	Explore 1	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Dome Dash Explore layer 1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Explore\Explore\Explore 1		11992200
+	845694909	Explore 2	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Dome Dash Explore layer 2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Explore\Explore\Explore 2		12086624
+	873542883	Death Stinger	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Death Stinger_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Loss Stinger\Death Stinger		1181212
+
