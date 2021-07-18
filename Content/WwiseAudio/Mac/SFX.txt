@@ -6,6 +6,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	1551306167	UI			\Default Work Unit\SFX\UI	
 	2478829299	Fans			\Default Work Unit\SFX\Ambiences\Fans	
 	2543463472	Ai_alert			\Default Work Unit\SFX\Ai\Ai_alert	
+	2592919291	Intro_Sequence			\Default Work Unit\Dialogue\Intro_Sequence	
 	2654748154	Water			\Default Work Unit\SFX\Ambiences\Water	
 	2658179343	Ai_steal			\Default Work Unit\SFX\Ai\Ai_steal	
 	2962571195	Electrical			\Default Work Unit\SFX\Ambiences\Electrical	
@@ -18,9 +19,12 @@ Event	ID	Name			Wwise Object Path	Notes
 	4137946895	Tree_Rustle			\Default Work Unit\SFX\Ambiences\Tree_Rustle	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	8162987	va_07	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\va_07_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\Ai Steal\va_07		196912
 	51709094	Grenade	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Grenade_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grenade\Grenade		808548
 	56057708	Water	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Bubbles_Constant_ODS-0375-012_D79FB2B7.wem		\Actor-Mixer Hierarchy\SFX\Ambiences\Water		8764696
+	61525537	va_07-02	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\va_07-02_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\Ai Steal\va_07-02		194348
 	66258413	grapple 2	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\grapple 2_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grapple gun\grapple 2		407228
+	84079770	va_16	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\va_16_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\Ai Steal\va_16		334852
 	93138931	Camera_Bag_Zipper_ODY-1617-066-01	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Camera_Bag_Zipper_ODY-1617-066-01_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Object pick up\Camera_Bag_Zipper_ODY-1617-066-01		129144
 	104119763	Whip_Cracks_ODY-1520-006	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Whip_Cracks_ODY-1520-006_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grapple release\Whip_Cracks_ODY-1520-006		210260
 	127247595	Whip_Swishes_ODY-1520-017	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Whip_Swishes_ODY-1520-017_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grapple release\Whip_Swishes_ODY-1520-017		133700
@@ -28,22 +32,30 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	178485083	Fire_Whoosh_ODY-1320-032-01-04	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01-04_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01-04		344688
 	203330032	Object pick up	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Objects, Zipper, Clothing, Zipped Up Fast SND4046 2_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Object pick up\Object pick up		55518
 	205651387	Whip_Swishes_ODY-1520-017-01	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Whip_Swishes_ODY-1520-017-01_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grapple release\Whip_Swishes_ODY-1520-017-01		169192
+	207322591	va_07-01	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\va_07-01_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\Ai Steal\va_07-01		200952
 	230553970	Analog Lab 4 01-04-04	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Analog Lab 4 01-04-04_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\UI click\Analog Lab 4 01-04-04		95976
 	245714514	Tree Rustle	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Tree Rustle_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Ambiences\Tree Rustle		4055488
 	308693771	Zipper_Fast_and_Short_Pull_ODY-0486-009-01	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Zipper_Fast_and_Short_Pull_ODY-0486-009-01_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Object pick up\Zipper_Fast_and_Short_Pull_ODY-0486-009-01		133840
 	319469034	Analog Lab 4 01-04-03	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Analog Lab 4 01-04-03_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\UI click\Analog Lab 4 01-04-03		95976
 	339299511	Fire_Whoosh_ODY-1320-032-01-06	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01-06_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01-06		282556
+	361659200	va_14	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\va_14_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\Ai Steal\va_14		231884
 	362797022	grapple 4	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\grapple 4_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grapple gun\grapple 4		301704
 	401123152	Electrical	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Tonal_Static_ODC-0011-159_D79FB2B7.wem		\Actor-Mixer Hierarchy\SFX\Ambiences\Electrical		8388672
 	407007214	Analog Lab 4 01-04	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Analog Lab 4 01-04_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\UI click\Analog Lab 4 01-04		95980
 	411291942	Fire_Whoosh_ODY-1320-032-01-02	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01-02_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01-02		237656
 	459743269	Fire_Whoosh_ODY-1320-032-01-08	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01-08_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01-08		326116
+	462919292	Intro Sequence Dome Dash	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Intro Sequence Dome Dash_10C4C929.wem		\Actor-Mixer Hierarchy\Dialogue\Intro Sequence Dome Dash		16475192
 	511486532	Fire_Whoosh_ODY-1320-032-01	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01		195804
+	517267618	va_10	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\va_10_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\Ai Steal\va_10		181520
+	556872909	Alert 4	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Alert 4_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\AI alert\Alert 4		430540
+	596161904	Alert 3	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Alert 3_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\AI alert\Alert 3		671340
 	596980962	Analog Lab 4 01-04-02	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Analog Lab 4 01-04-02_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\UI click\Analog Lab 4 01-04-02		95976
 	608331193	Alarm	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Alarm_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Ambiences\Alarm		2123324
 	659929358	General Ambience	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Command_Module_Presence_ODY-0295-009_D79FB2B7.wem		\Actor-Mixer Hierarchy\SFX\Ambiences\General Ambience		11328064
+	663399508	va_13	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\va_13_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\Ai Steal\va_13		226464
 	756537999	Camera_Bag_Zipper_ODY-1617-066	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Camera_Bag_Zipper_ODY-1617-066_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Object pick up\Camera_Bag_Zipper_ODY-1617-066		125004
 	758539988	Fans	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Air_Conditioner_Metamorphosis_ODY-0307-013_D79FB2B7.wem		\Actor-Mixer Hierarchy\SFX\Ambiences\Fans		1440064
+	795828478	Alert 1	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Alert 1_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\AI alert\Alert 1		534160
 	820769319	grapple 1	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\grapple 1_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grapple gun\grapple 1		474608
 	851036618	Fire_Whoosh_ODY-1320-032-01-01	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01-01_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01-01		286984
 	859732913	Hazard drop off	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Hazard drop off_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Hazard drop off		957456
@@ -52,9 +64,12 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	888616285	Whip_Swishes_ODY-1520-017-02	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Whip_Swishes_ODY-1520-017-02_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grapple release\Whip_Swishes_ODY-1520-017-02		133700
 	892456560	Camera_Bag_Zipper_ODY-1617-066-02	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Camera_Bag_Zipper_ODY-1617-066-02_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Object pick up\Camera_Bag_Zipper_ODY-1617-066-02		118848
 	895605535	Grenade 2	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Grenade 2_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Grenade\Grenade 2		839000
+	940295225	va_11	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\va_11_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\Ai Steal\va_11		170472
 	968511070	Fire_Whoosh_ODY-1320-032-01-05	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01-05_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01-05		305716
 	974758273	Zipper_Fast_and_Short_Pull_ODY-0486-009	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Zipper_Fast_and_Short_Pull_ODY-0486-009_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Object pick up\Zipper_Fast_and_Short_Pull_ODY-0486-009		79060
 	992651825	Fire_Whoosh_ODY-1320-032-01-07	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01-07_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01-07		319796
+	999156991	Alert 2	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Alert 2_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\AI\AI alert\Alert 2		430840
+	1001058455	Rot bots loop	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Rot bots loop_D79FB2B7.wem		\Actor-Mixer Hierarchy\SFX\AI\RotBots\Rot bots loop		6250356
 	1005793071	Fire_Whoosh_ODY-1320-032-01-03	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Fire_Whoosh_ODY-1320-032-01-03_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Player\Jump\Fire_Whoosh_ODY-1320-032-01-03		206472
 	1073203391	Outside the door ambience	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Metal_Stress_ODY-0299-005_10C4C929.wem		\Actor-Mixer Hierarchy\SFX\Ambiences\Outside the door ambience		9685056
 

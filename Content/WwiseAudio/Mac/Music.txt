@@ -15,9 +15,9 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 	3486324328	Countdown_Timer			\Default Work Unit\Countdown_Timer	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	295591954	Victory Stinger	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Victory Stinger_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Victory Stinger\Victory Stinger		1920064
+	437408409	victory Stinger Dome Dash	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\victory Stinger Dome Dash_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Victory Stinger\victory Stinger Dome Dash		3149688
 	490056593	Dome_Dash-01 (2)	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Dome_Dash-01 (2)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Dash\Dash\Dome_Dash-01 (2)		30228348
 	758067848	Explore 1	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Dome Dash Explore layer 1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Explore\Explore\Explore 1		11992200
 	845694909	Explore 2	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Dome Dash Explore layer 2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Explore\Explore\Explore 2		12086624
-	873542883	Death Stinger	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Death Stinger_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Loss Stinger\Death Stinger		1181212
+	1067743440	Loss Stinger Dome Dash	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Mac\SFX\Loss Stinger Dome Dash_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Loss Stinger\Loss Stinger Dome Dash		2496396
 

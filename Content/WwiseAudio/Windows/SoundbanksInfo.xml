@@ -11,14 +11,75 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="393239870" Language="SFX" Hash="3112895159">
+		<SoundBank Id="393239870" Language="SFX" Hash="2531937907">
 			<ObjectPath>\SoundBanks\Default Work Unit\SFX</ObjectPath>
 			<ShortName>SFX</ShortName>
 			<Path>SFX.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2543463472" Name="Ai_alert" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_alert"/>
-				<Event Id="3269214274" Name="Ai_Ambience" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_Ambience"/>
-				<Event Id="2658179343" Name="Ai_steal" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_steal"/>
+				<Event Id="2543463472" Name="Ai_alert" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_alert">
+					<IncludedMemoryFiles>
+						<File Id="556872909" Language="SFX">
+							<ShortName>Alert 4.wav</ShortName>
+							<Path>SFX\Alert 4_10C4C929.wem</Path>
+						</File>
+						<File Id="596161904" Language="SFX">
+							<ShortName>Alert 3.wav</ShortName>
+							<Path>SFX\Alert 3_10C4C929.wem</Path>
+						</File>
+						<File Id="795828478" Language="SFX">
+							<ShortName>Alert 1.wav</ShortName>
+							<Path>SFX\Alert 1_10C4C929.wem</Path>
+						</File>
+						<File Id="999156991" Language="SFX">
+							<ShortName>Alert 2.wav</ShortName>
+							<Path>SFX\Alert 2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3269214274" Name="Ai_Ambience" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_Ambience">
+					<IncludedMemoryFiles>
+						<File Id="1001058455" Language="SFX">
+							<ShortName>Rot bots loop.wav</ShortName>
+							<Path>SFX\Rot bots loop_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2658179343" Name="Ai_steal" ObjectPath="\Events\Default Work Unit\SFX\Ai\Ai_steal">
+					<IncludedMemoryFiles>
+						<File Id="8162987" Language="SFX">
+							<ShortName>va_07.wav</ShortName>
+							<Path>SFX\va_07_10C4C929.wem</Path>
+						</File>
+						<File Id="61525537" Language="SFX">
+							<ShortName>va_07-02.wav</ShortName>
+							<Path>SFX\va_07-02_10C4C929.wem</Path>
+						</File>
+						<File Id="84079770" Language="SFX">
+							<ShortName>va_16.wav</ShortName>
+							<Path>SFX\va_16_10C4C929.wem</Path>
+						</File>
+						<File Id="207322591" Language="SFX">
+							<ShortName>va_07-01.wav</ShortName>
+							<Path>SFX\va_07-01_10C4C929.wem</Path>
+						</File>
+						<File Id="361659200" Language="SFX">
+							<ShortName>va_14.wav</ShortName>
+							<Path>SFX\va_14_10C4C929.wem</Path>
+						</File>
+						<File Id="517267618" Language="SFX">
+							<ShortName>va_10.wav</ShortName>
+							<Path>SFX\va_10_10C4C929.wem</Path>
+						</File>
+						<File Id="663399508" Language="SFX">
+							<ShortName>va_13.wav</ShortName>
+							<Path>SFX\va_13_10C4C929.wem</Path>
+						</File>
+						<File Id="940295225" Language="SFX">
+							<ShortName>va_11.wav</ShortName>
+							<Path>SFX\va_11_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 				<Event Id="855317084" Name="Alarm" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Alarm">
 					<IncludedMemoryFiles>
 						<File Id="608331193" Language="SFX">
@@ -112,6 +173,14 @@
 						<File Id="859732913" Language="SFX">
 							<ShortName>Hazard drop off.wav</ShortName>
 							<Path>SFX\Hazard drop off_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2592919291" Name="Intro_Sequence" ObjectPath="\Events\Default Work Unit\Dialogue\Intro_Sequence">
+					<IncludedMemoryFiles>
+						<File Id="462919292" Language="SFX">
+							<ShortName>Intro Sequence Dome Dash.wav</ShortName>
+							<Path>SFX\Intro Sequence Dome Dash_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -238,16 +307,31 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3991942870" Language="SFX" Hash="1027345779">
+		<SoundBank Id="3930136735" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Dialogue</ObjectPath>
+			<ShortName>Dialogue</ShortName>
+			<Path>Dialogue.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2592919291" Name="Intro_Sequence" ObjectPath="\Events\Default Work Unit\Dialogue\Intro_Sequence">
+					<IncludedMemoryFiles>
+						<File Id="462919292" Language="SFX">
+							<ShortName>Intro Sequence Dome Dash.wav</ShortName>
+							<Path>SFX\Intro Sequence Dome Dash_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="3991942870" Language="SFX" Hash="3015325063">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
 			<IncludedEvents>
 				<Event Id="417627684" Name="PlayMusic" ObjectPath="\Events\Default Work Unit\Music\PlayMusic">
 					<IncludedMemoryFiles>
-						<File Id="295591954" Language="SFX">
-							<ShortName>Victory Stinger.wav</ShortName>
-							<Path>SFX\Victory Stinger_D79FB2B7.wem</Path>
+						<File Id="437408409" Language="SFX">
+							<ShortName>victory Stinger Dome Dash.wav</ShortName>
+							<Path>SFX\victory Stinger Dome Dash_D79FB2B7.wem</Path>
 						</File>
 						<File Id="490056593" Language="SFX">
 							<ShortName>Dome_Dash-01 (2).wav</ShortName>
@@ -261,9 +345,9 @@
 							<ShortName>Dome Dash Explore layer 2.wav</ShortName>
 							<Path>SFX\Dome Dash Explore layer 2_D79FB2B7.wem</Path>
 						</File>
-						<File Id="873542883" Language="SFX">
-							<ShortName>Death Stinger.wav</ShortName>
-							<Path>SFX\Death Stinger_D79FB2B7.wem</Path>
+						<File Id="1067743440" Language="SFX">
+							<ShortName>Loss Stinger Dome Dash.wav</ShortName>
+							<Path>SFX\Loss Stinger Dome Dash_D79FB2B7.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 					<SwitchContainers>
@@ -280,12 +364,12 @@
 						</SwitchContainer>
 						<SwitchContainer SwitchValue="{791B072E-4176-4B36-AC8B-D25956A22C78}">
 							<Media>
-								<File Id="873542883"/>
+								<File Id="1067743440"/>
 							</Media>
 						</SwitchContainer>
 						<SwitchContainer SwitchValue="{CE7CFA67-0AB3-452E-BB86-37D642CB88B1}">
 							<Media>
-								<File Id="295591954"/>
+								<File Id="437408409"/>
 							</Media>
 						</SwitchContainer>
 						<SwitchContainer SwitchValue="{5D1350E0-6FA6-4F39-83A2-90DA890721F0}">
