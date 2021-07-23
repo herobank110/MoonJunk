@@ -9,6 +9,7 @@ State	ID	Name	State Group			Notes
 	579523862	Explore	Player_State			
 	748895195	None	Player_State			
 	1942692385	Dash	Player_State			
+	2607556080	Menu	Player_State			
 	2716678721	Victory	Player_State			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
@@ -16,8 +17,9 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	437408409	victory Stinger Dome Dash	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\victory Stinger Dome Dash_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Victory Stinger\victory Stinger Dome Dash		3149688
-	490056593	Dome_Dash-01 (2)	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Dome_Dash-01 (2)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Dash\Dash\Dome_Dash-01 (2)		30228348
+	686532093	Dome Dash Final	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Dome Dash Final_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Dash\Dash\Dome Dash Final		30216464
 	758067848	Explore 1	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Dome Dash Explore layer 1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Explore\Explore\Explore 1		11992200
+	796608118	Menu Music	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Menu Music_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Menu\Menu Music\Menu Music		34205604
 	845694909	Explore 2	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Dome Dash Explore layer 2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Explore\Explore\Explore 2		12086624
 	1067743440	Loss Stinger Dome Dash	C:\Users\Stephen\Downloads\MoonJunk-master (1)\MoonJunk-master\MoonJunk-master_WwiseProject\.cache\Windows\SFX\Loss Stinger Dome Dash_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Music\Loss Stinger\Loss Stinger Dome Dash		2496396
 

@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="393239870" Language="SFX" Hash="2531937907">
+		<SoundBank Id="393239870" Language="SFX" Hash="2130665213">
 			<ObjectPath>\SoundBanks\Default Work Unit\SFX</ObjectPath>
 			<ShortName>SFX</ShortName>
 			<Path>SFX.bnk</Path>
@@ -322,7 +322,7 @@
 				</Event>
 			</IncludedEvents>
 		</SoundBank>
-		<SoundBank Id="3991942870" Language="SFX" Hash="3015325063">
+		<SoundBank Id="3991942870" Language="SFX" Hash="3607426454">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
@@ -333,13 +333,17 @@
 							<ShortName>victory Stinger Dome Dash.wav</ShortName>
 							<Path>SFX\victory Stinger Dome Dash_D79FB2B7.wem</Path>
 						</File>
-						<File Id="490056593" Language="SFX">
-							<ShortName>Dome_Dash-01 (2).wav</ShortName>
-							<Path>SFX\Dome_Dash-01 (2)_D79FB2B7.wem</Path>
+						<File Id="686532093" Language="SFX">
+							<ShortName>Dome Dash Final.wav</ShortName>
+							<Path>SFX\Dome Dash Final_D79FB2B7.wem</Path>
 						</File>
 						<File Id="758067848" Language="SFX">
 							<ShortName>Dome Dash Explore layer 1.wav</ShortName>
 							<Path>SFX\Dome Dash Explore layer 1_D79FB2B7.wem</Path>
+						</File>
+						<File Id="796608118" Language="SFX">
+							<ShortName>Menu Music.wav</ShortName>
+							<Path>SFX\Menu Music_D79FB2B7.wem</Path>
 						</File>
 						<File Id="845694909" Language="SFX">
 							<ShortName>Dome Dash Explore layer 2.wav</ShortName>
@@ -353,7 +357,7 @@
 					<SwitchContainers>
 						<SwitchContainer SwitchValue="{F6A864B5-9761-46E1-97DD-69D3CCBE7CC8}">
 							<Media>
-								<File Id="490056593"/>
+								<File Id="686532093"/>
 							</Media>
 						</SwitchContainer>
 						<SwitchContainer SwitchValue="{AE573F11-1144-4DAE-8B27-EC72C5966E5C}">
@@ -378,6 +382,11 @@
 								<File Id="845694909"/>
 							</Media>
 						</SwitchContainer>
+						<SwitchContainer SwitchValue="{3B78E763-B021-4CD1-A4EE-FEA86FC678D0}">
+							<Media>
+								<File Id="796608118"/>
+							</Media>
+						</SwitchContainer>
 					</SwitchContainers>
 					<ActionSetState>
 						<ActionSetStateEntry Id="579523862" Name="Explore" ObjectPath="\States\Default Work Unit\Player_State\Explore"/>
@@ -398,6 +407,7 @@
 						<State Id="1942692385" Name="Dash" ObjectPath="\States\Default Work Unit\Player_State\Dash"/>
 						<State Id="2716678721" Name="Victory" ObjectPath="\States\Default Work Unit\Player_State\Victory"/>
 						<State Id="221232704" Name="Loss" ObjectPath="\States\Default Work Unit\Player_State\Loss"/>
+						<State Id="2607556080" Name="Menu" ObjectPath="\States\Default Work Unit\Player_State\Menu"/>
 					</States>
 				</StateGroup>
 			</StateGroups>

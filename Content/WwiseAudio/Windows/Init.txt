@@ -6,6 +6,7 @@ State	ID	Name	State Group			Notes
 	579523862	Explore	Player_State			
 	748895195	None	Player_State			
 	1942692385	Dash	Player_State			
+	2607556080	Menu	Player_State			
 	2716678721	Victory	Player_State			
 
 Audio Bus	ID	Name			Wwise Object Path	Notes
