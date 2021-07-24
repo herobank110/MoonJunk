@@ -11,7 +11,7 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="393239870" Language="SFX" Hash="2130665213">
+		<SoundBank Id="393239870" Language="SFX" Hash="2030111962">
 			<ObjectPath>\SoundBanks\Default Work Unit\SFX</ObjectPath>
 			<ShortName>SFX</ShortName>
 			<Path>SFX.bnk</Path>
@@ -262,9 +262,41 @@
 				</Event>
 				<Event Id="4137946895" Name="Tree_Rustle" ObjectPath="\Events\Default Work Unit\SFX\Ambiences\Tree_Rustle">
 					<IncludedMemoryFiles>
-						<File Id="245714514" Language="SFX">
-							<ShortName>Tree Rustle.wav</ShortName>
-							<Path>SFX\Tree Rustle_10C4C929.wem</Path>
+						<File Id="154884087" Language="SFX">
+							<ShortName>Leaf_Movement_ODC-0023-775-01.wav</ShortName>
+							<Path>SFX\Leaf_Movement_ODC-0023-775-01_10C4C929.wem</Path>
+						</File>
+						<File Id="165320300" Language="SFX">
+							<ShortName>Foliage_Rustle_ODY-1440-066-04.wav</ShortName>
+							<Path>SFX\Foliage_Rustle_ODY-1440-066-04_10C4C929.wem</Path>
+						</File>
+						<File Id="243035471" Language="SFX">
+							<ShortName>Foliage_Rustle_ODY-1440-066-02.wav</ShortName>
+							<Path>SFX\Foliage_Rustle_ODY-1440-066-02_10C4C929.wem</Path>
+						</File>
+						<File Id="258151244" Language="SFX">
+							<ShortName>Foliage_Rustle_ODY-1440-066.wav</ShortName>
+							<Path>SFX\Foliage_Rustle_ODY-1440-066_10C4C929.wem</Path>
+						</File>
+						<File Id="274127714" Language="SFX">
+							<ShortName>Leaf_Movement_ODC-0023-775.wav</ShortName>
+							<Path>SFX\Leaf_Movement_ODC-0023-775_10C4C929.wem</Path>
+						</File>
+						<File Id="481191430" Language="SFX">
+							<ShortName>Foliage_Rustle_ODY-1440-066-01.wav</ShortName>
+							<Path>SFX\Foliage_Rustle_ODY-1440-066-01_10C4C929.wem</Path>
+						</File>
+						<File Id="556409687" Language="SFX">
+							<ShortName>Leaf_Movement_ODC-0023-775-03.wav</ShortName>
+							<Path>SFX\Leaf_Movement_ODC-0023-775-03_10C4C929.wem</Path>
+						</File>
+						<File Id="558821142" Language="SFX">
+							<ShortName>Leaf_Movement_ODC-0023-775-02.wav</ShortName>
+							<Path>SFX\Leaf_Movement_ODC-0023-775-02_10C4C929.wem</Path>
+						</File>
+						<File Id="933599146" Language="SFX">
+							<ShortName>Foliage_Rustle_ODY-1440-066-03.wav</ShortName>
+							<Path>SFX\Foliage_Rustle_ODY-1440-066-03_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -322,7 +354,7 @@
 				</Event>
 			</IncludedEvents>
 		</SoundBank>
-		<SoundBank Id="3991942870" Language="SFX" Hash="3607426454">
+		<SoundBank Id="3991942870" Language="SFX" Hash="2263521096">
 			<ObjectPath>\SoundBanks\Default Work Unit\Music</ObjectPath>
 			<ShortName>Music</ShortName>
 			<Path>Music.bnk</Path>
