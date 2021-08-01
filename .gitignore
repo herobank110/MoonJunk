@@ -1,5 +1,11 @@
-Config/*PerProjectUser*
-DerivedDataCache/
-Intermediate/
-Saved/
+/.vs
+/Binaries
+/Config/*PerProjectUser*
+/Builds
+/DerivedDataCache
+/Intermediate
+/Saved
+/Plugins/**/Intermediate
+/Plugins/**/Saved
 **/*BuiltData.uasset
+/*.sln
